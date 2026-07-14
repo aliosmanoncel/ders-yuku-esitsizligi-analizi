@@ -1,0 +1,14 @@
+Zorunlu dersi olmayan Jeofizik ogretim uyesi sayisi: 5
+
+- Prof. Dr. Ali Osman ÖNCEL (Prof. Dr.)
+- Prof. Dr. Mualla CENGİZ (Prof. Dr.)
+- Doç. Dr. Özlem MAKAROĞLU (Doç. Dr.)
+- Doç. Dr. Nurdan SAYIN (Doç. Dr.)
+- Dr. Öğr. Üyesi Anisya B. TEKKELİ (Dr. Öğr. Üyesi)
+
+Haric tutulanlar (resmi Jeofizik Anabilim Dali listesinde yok, baska bolumden hizmet dersi veriyor olabilir): 5
+- Prof. Dr. Nurullah HANİLÇİ (Prof. Dr.)
+- Prof. Dr. Aysel ERSOY (Prof. Dr.)
+- Dr. Öğr. Üyesi Yakup ÇELİK (Dr. Öğr. Üyesi)
+- Dr. Öğr. Üyesi Ertuğrul ADIGÜZEL (Dr. Öğr. Üyesi)
+- Dr. Öğr. Üyesi Zeynep CANSU (Dr. Öğr. Üyesi)

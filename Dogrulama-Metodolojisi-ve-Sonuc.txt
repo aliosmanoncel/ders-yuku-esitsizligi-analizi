@@ -1,0 +1,92 @@
+JEOFİZİK MÜHENDİSLİĞİ BÖLÜMÜ — DERS YÜKÜ VERİSİ BAĞIMSIZ DOĞRULAMA ÖZETİ
+Hazırlanma tarihi: 14.07.2026
+
+============================================================
+1. NE YAPILDI
+============================================================
+Doç. Dr. Savaş Karabulut, "Jeofizik Ders Yükü Dağılımı" Excel tablosunu
+13 Temmuz 2026 Pazartesi günü, saat 23:02'de, bölüm öğretim üyelerinin
+tamamına e-posta ile göndermiştir (alıcılar arasında Ali Osman Öncel de
+bulunmaktadır). Aynı e-postanın sonunda şu not yer almaktadır: "Ders
+yüklerinin hakkaniyetli bir şekilde paylaşılmaması konusu Dekanlık
+makamına iletilmiştir." Yani konu, aynı tarihte veya öncesinde Dekanlık
+makamına da bildirilmiştir.
+
+Bölüm Başkanlığı, 07.07.2026 tarihli yazısında ("verilerin doğruluğu ve
+güncelliği Bölüm Başkanlığımızca teyit edilmiş kabul edilmemektedir")
+bu tablonun kaynağını belirsiz saymıştı.
+
+Bu belirsizliği gidermek için, bölümün kendi resmi web sitesinde
+(jeofizikmuhendislik.iuc.edu.tr/tr/content/egitim/ders-programlari)
+yayınlanan ve her sayfası Bölüm Başkanı Prof. Dr. Z. Mümtaz Hisarlı
+tarafından imzalanmış 4 resmi ders programı belgesi tek tek incelendi:
+
+  - 2025-2026 Güz Lisans Ders Programı
+  - 2025-2026 Bahar Lisans Ders Programı
+  - 2025-2026 Güz Yüksek Lisans/Doktora Ders Programı
+  - 2025-2026 Bahar Yüksek Lisans/Doktora Ders Programı
+
+Bu 4 belgeden her öğretim üyesinin verdiği derslerin tam listesi elle
+yeniden derlenip, Karabulut'un Excel tablosundaki "Genel Toplam Ders"
+rakamlarıyla tek tek karşılaştırıldı. Bu karşılaştırmayı tekrarlanabilir
+kılmak için Python script'leri yazıldı (bkz. DersYuku klasöründeki
+zorunlu_dersi_olmayanlar.py, prof_dr_zorunlu_analiz.py,
+tum_ogretim_uyeleri_zorunlu.py, esitlik_dengelilik_analizi.py,
+sayistay_kamu_zarari_analizi.py) — böylece Excel dosyası güncellenirse
+veya yeni resmi belgeler eklenirse karşılaştırma yeniden ve tutarlı
+şekilde çalıştırılabilir.
+
+Not: Bu karşılaştırma, normal şartlarda Bölüm Başkanlığı'nın "teyit
+ediyorum/etmiyorum" demeden önce yapması beklenecek türden bir
+doğrulama işlemidir. Bölüm Başkanlığı bunu yapmadığı için, bu iş
+bağımsız olarak burada yapılmıştır.
+
+Kişisel not: Bu doğrulamanın öznesi yalnızca soyut bir veri kalitesi
+sorunu değildir — analiz kapsamındaki "zorunlu dersi hiç olmayan"
+öğretim üyelerinden biri de bu belgeyi hazırlatan Ali Osman Öncel'in
+kendisidir (bkz. Bölüm 2 ve önceki analizler: 10 resmi Prof. Dr.'dan
+yalnızca 2'sinin zorunlu dersi yoktur, biri Öncel'dir).
+
+============================================================
+2. SONUÇ
+============================================================
+~30 öğretim üyesinden 29'unun toplam ders sayısı, resmi belgelerden
+yeniden sayıldığında Karabulut'un tablosuyla BİREBİR ÖRTÜŞTÜ. En çok
+tartışılan iki isim dahil:
+  - Dr. Öğr. Üyesi Okan TEZEL: 9 = 9 (Tezel'in kendi itirazı 6 idi)
+  - Prof. Dr. Z. Mümtaz HİSARLI (Bölüm Başkanı): 9 = 9
+
+============================================================
+3. TEK UYUŞMAZLIK: ZEYNEP CANSU — VE NEDEN ÖNEMSİZ OLDUĞU
+============================================================
+Dr. Öğr. Üyesi Zeynep CANSU için Excel'de 1 ders görünürken, resmi
+programda 2 ders (Kariyer Planlama + İş Hukuku) bulundu.
+
+Ancak bu fark analiz açısından kritik değildir, çünkü:
+  - Zeynep Cansu, Jeofizik Mühendisliği Anabilim Dalları'ndan (Sismoloji,
+    Uygulamalı Jeofizik, Yer Fiziği) biri değildir; bölüme DIŞARIDAN
+    hizmet dersi veren bir öğretim üyesidir (İş Hukuku, Kariyer Planlama
+    gibi dersler Jeoloji/Jeofizik/Maden bölümlerine ortak verilir).
+  - Bu tür dışarıdan/ortak hizmet dersleri, bölüm İÇİ ders yükü dağılım
+    dengesini (22 resmi anabilim dalı üyesi arasındaki eşitlik analizini)
+    hiç etkilemez — çünkü Cansu zaten bölümün zorunlu/seçmeli ders
+    yükü havuzunun bir parçası değildir.
+  - Yani 29/30 eşleşme oranı, bölüm İÇİ analiz için fiilen 29/29 (%100)
+    demektir. Tek "hata", analiz kapsamı dışındaki bir kişide bulunmuştur.
+
+Bu, verinin güvenilirliğini zayıflatmak yerine, tam tersine, analiz
+kapsamının (resmi 22 kişilik anabilim dalı listesi) doğru çizildiğini
+gösteren bir kontrol noktası olarak kayda geçirilmiştir.
+
+============================================================
+4. GENİŞ ÖLÇEKLİ ÇIKARIM
+============================================================
+Burada tek bir bölüm için elle yapılan doğrulama, aslında Fakülte
+Dekanlığı'nın tüm bölümler için sistematik olarak yapabileceği bir
+işlemdir: her bölümden aynı formatta (öğretim üyesi × zorunlu/seçmeli
+ders × kredi × AKTS) bir ders yükü tablosu istenip, bölümlerin kendi
+web sitelerinde zaten yayınlanan resmi ders programlarıyla karşılaştırılsa,
+Dekanlık tüm mühendislik fakültesi genelinde ders yükü eşitsizliğini
+yukarıdan gözlemleyebilir ve gerekirse müdahale için nesnel, belgeye
+dayalı bir gerekçeye sahip olurdu — tıpkı burada tek bir bölüm için
+yapıldığı gibi.

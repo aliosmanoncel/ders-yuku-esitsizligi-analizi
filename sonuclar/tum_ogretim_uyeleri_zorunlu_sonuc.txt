@@ -1,0 +1,38 @@
+Toplam ogretim uyesi: 33
+Zorunlu dersi VAR (+): 23
+Zorunlu dersi YOK (-): 10
+
+======================================================================
+[+] Prof. Dr. Z. Mümtaz HİSARLI (Prof. Dr.) - Yer Fiziği Anabilim Dalı - 5 zorunlu ders
+[+] Prof. Dr. Ali İsmet KANLI (Prof. Dr.) - Uygulamalı Jeofizik Anabilim Dalı - 2 zorunlu ders
+[+] Prof. Dr. Ethem GÖRGÜN (Prof. Dr.) - Sismoloji Anabilim Dalı - 2 zorunlu ders
+[+] Prof. Dr. Eşref YALÇINKAYA (Prof. Dr.) - Sismoloji Anabilim Dalı - 2 zorunlu ders
+[+] Prof. Dr. Murat BAYRAK (Prof. Dr.) - Yer Fiziği Anabilim Dalı - 2 zorunlu ders
+[+] Prof. Dr. Hakan ALP (Prof. Dr.) - Uygulamalı Jeofizik Anabilim Dalı - 1 zorunlu ders
+[+] Prof. Dr. A. Muhittin ALBORA (Prof. Dr.) - Uygulamalı Jeofizik Anabilim Dalı - 1 zorunlu ders
+[+] Prof. Dr. Mustafa Kemal TUNÇER (Prof. Dr.) - Yer Fiziği Anabilim Dalı - 1 zorunlu ders
+[-] Prof. Dr. Ali Osman ÖNCEL (Prof. Dr.) - Sismoloji Anabilim Dalı - zorunlu ders yok
+[-] Prof. Dr. Mualla CENGİZ (Prof. Dr.) - Yer Fiziği Anabilim Dalı - zorunlu ders yok
+[-] Prof. Dr. Nurullah HANİLÇİ (Prof. Dr.) - Jeoloji Mühendisliği (dışarıdan ders) - zorunlu ders yok
+[-] Prof. Dr. Aysel ERSOY (Prof. Dr.) - Jeoloji Mühendisliği (dışarıdan ders) - zorunlu ders yok
+[+] Dr. Öğr. Üyesi Melda KÜÇÜKDEMİRCİ (Doç. Dr.) - Yer Fiziği Anabilim Dalı - 4 zorunlu ders
+[+] Doç. Dr. Onur TAN (Doç. Dr.) - Sismoloji Anabilim Dalı - 2 zorunlu ders
+[+] Doç. Dr. Gökhan ÇAVLI (Doç. Dr.) - Diğer Bölüm (dışarıdan ders) - 1 zorunlu ders
+[-] Doç. Dr. Özlem MAKAROĞLU (Doç. Dr.) - Yer Fiziği Anabilim Dalı - zorunlu ders yok
+[-] Doç. Dr. Nurdan SAYIN (Doç. Dr.) - Yer Fiziği Anabilim Dalı - zorunlu ders yok
+[+] Dr. Öğr. Üyesi Okan TEZEL (Dr. Öğr. Üyesi) - Uygulamalı Jeofizik Anabilim Dalı - 2 zorunlu ders
+[+] Dr. Öğr. Üyesi Nihan HOŞKAN (Dr. Öğr. Üyesi) - Uygulamalı Jeofizik Anabilim Dalı - 2 zorunlu ders
+[+] Dr. Öğr. Üyesi Oya TARHAN BAL (Dr. Öğr. Üyesi) - Uygulamalı Jeofizik Anabilim Dalı - 2 zorunlu ders
+[+] Dr. Öğr. Üyesi Hazel Deniz TOKTAY (Dr. Öğr. Üyesi) - Uygulamalı Jeofizik Anabilim Dalı - 2 zorunlu ders
+[+] Dr. Öğr. Üyesi Aminu YUSUF (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - 2 zorunlu ders
+[+] Dr. Öğr. Üyesi İlknur HOŞ (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - 2 zorunlu ders
+[+] Dr. Öğr. Üyesi Hande AYKURT VARDAR (Dr. Öğr. Üyesi) - Sismoloji Anabilim Dalı - 1 zorunlu ders
+[+] Dr. Öğr. Üyesi Gökhan KARCIOĞLU (Dr. Öğr. Üyesi) - Uygulamalı Jeofizik Anabilim Dalı - 1 zorunlu ders
+[+] Dr. Öğr. Üyesi İsak YILMAZ (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - 1 zorunlu ders
+[+] Dr. Öğr. Üyesi Aynur DİKBAŞ (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - 1 zorunlu ders
+[+] Dr. Öğr. Üyesi Zeynep ÖZBEY (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - 1 zorunlu ders
+[-] Dr. Öğr. Üyesi Anisya B. TEKKELİ (Dr. Öğr. Üyesi) - Uygulamalı Jeofizik Anabilim Dalı - zorunlu ders yok
+[-] Dr. Öğr. Üyesi Yakup ÇELİK (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - zorunlu ders yok
+[-] Dr. Öğr. Üyesi Ertuğrul ADIGÜZEL (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - zorunlu ders yok
+[-] Dr. Öğr. Üyesi Zeynep CANSU (Dr. Öğr. Üyesi) - Diğer Bölüm (dışarıdan ders) - zorunlu ders yok
+[+] Araş. Gör. Dr. Doğacan ÖZCAN (Araş. Gör. Dr.) - Diğer Bölüm (dışarıdan ders) - 1 zorunlu ders

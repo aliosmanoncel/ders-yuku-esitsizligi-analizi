@@ -1,0 +1,37 @@
+==========================================================================================
+SAYISTAY PERSPEKTIFI: DONEM BAZLI KREDI YUKU vs 10 SAAT/HAFTA ASGARI ESIGI
+(Kredi, haftalik ders saatine en yakin proxy - kesin degil, bkz. dosya basi not)
+==========================================================================================
+Öğretim Üyesi                       Ünvan               Güz  Bahar  Durum
+------------------------------------------------------------------------------------------
+Dr. Öğr. Üyesi Okan TEZEL           Dr. Öğr. Üyesi     14.5   10.5  GÜZ FAZLA (14.5>10, ek ders ücreti riski); BAHAR FAZLA (10.5>10, ek ders ücreti riski)
+Dr. Öğr. Üyesi Nihan HOŞKAN         Dr. Öğr. Üyesi      8.5   12.0  GÜZ ALTI (8.5<10); BAHAR FAZLA (12.0>10, ek ders ücreti riski)
+Doç. Dr. Onur TAN                   Doç. Dr.           11.0    8.5  GÜZ FAZLA (11.0>10, ek ders ücreti riski); BAHAR ALTI (8.5<10)
+Prof. Dr. Z. Mümtaz HİSARLI         Prof. Dr.          11.0    8.0  GÜZ FAZLA (11.0>10, ek ders ücreti riski); BAHAR ALTI (8.0<10)
+Dr. Öğr. Üyesi Melda KÜÇÜKDEMİRCİ   Doç. Dr.            9.5    9.0  GÜZ ALTI (9.5<10); BAHAR ALTI (9.0<10)
+Prof. Dr. Ali İsmet KANLI           Prof. Dr.           5.5   12.0  GÜZ ALTI (5.5<10); BAHAR FAZLA (12.0>10, ek ders ücreti riski)
+Prof. Dr. Hakan ALP                 Prof. Dr.           8.0    6.0  GÜZ ALTI (8.0<10); BAHAR ALTI (6.0<10)
+Prof. Dr. Ali Osman ÖNCEL           Prof. Dr.           6.0    6.0  GÜZ ALTI (6.0<10); BAHAR ALTI (6.0<10)
+Prof. Dr. A. Muhittin ALBORA        Prof. Dr.           4.0    6.0  GÜZ ALTI (4.0<10); BAHAR ALTI (6.0<10)
+Prof. Dr. Ethem GÖRGÜN              Prof. Dr.           8.0    2.0  GÜZ ALTI (8.0<10); BAHAR ALTI (2.0<10)
+Doç. Dr. Özlem MAKAROĞLU            Doç. Dr.            2.5    7.5  GÜZ ALTI (2.5<10); BAHAR ALTI (7.5<10)
+Prof. Dr. Mustafa Kemal TUNÇER      Prof. Dr.           6.0    3.0  GÜZ ALTI (6.0<10); BAHAR ALTI (3.0<10)
+Prof. Dr. Eşref YALÇINKAYA          Prof. Dr.           3.0    5.5  GÜZ ALTI (3.0<10); BAHAR ALTI (5.5<10)
+Dr. Öğr. Üyesi Oya TARHAN BAL       Dr. Öğr. Üyesi      2.5    6.0  GÜZ ALTI (2.5<10); BAHAR ALTI (6.0<10)
+Prof. Dr. Mualla CENGİZ             Prof. Dr.           2.5    5.5  GÜZ ALTI (2.5<10); BAHAR ALTI (5.5<10)
+Doç. Dr. Nurdan SAYIN               Doç. Dr.            2.5    5.0  GÜZ ALTI (2.5<10); BAHAR ALTI (5.0<10)
+Dr. Öğr. Üyesi Hazel Deniz TOKTAY   Dr. Öğr. Üyesi      3.0    3.0  GÜZ ALTI (3.0<10); BAHAR ALTI (3.0<10)
+Prof. Dr. Murat BAYRAK              Prof. Dr.           0.0    5.5  GÜZ ALTI (0.0<10); BAHAR ALTI (5.5<10)
+Dr. Öğr. Üyesi Gökhan KARCIOĞLU     Dr. Öğr. Üyesi      0.0    4.0  GÜZ ALTI (0.0<10); BAHAR ALTI (4.0<10)
+Dr. Öğr. Üyesi Hande AYKURT VARDAR  Dr. Öğr. Üyesi      3.5    0.0  GÜZ ALTI (3.5<10); BAHAR ALTI (0.0<10)
+Dr. Öğr. Üyesi Anisya B. TEKKELİ    Dr. Öğr. Üyesi      0.0    2.5  GÜZ ALTI (0.0<10); BAHAR ALTI (2.5<10)
+
+==========================================================================================
+ESIGIN ALTINDA KALAN DONEM SAYISI (tamamlanmamis ders yuku): 36
+ESIGI ASAN DONEM SAYISI (potansiyel ek ders ücreti): 6
+
+Sayistay'in tespit ettigi 'kamu zarari' senaryosu tam olarak budur: ayni
+bolumde, ayni donemde, esigin ALTINDA kalanlar VARKEN, esigi ASANLARA
+ek ders ücreti odenmesi. Esik alti olan ogretim uyelerine once mevcut
+zorunlu/secmeli ders atanmasi (esigi asanlarin fazlasindan devredilerek)
+gerekirdi; bu yapilmadan ek ders ücreti odenmesi mevzuata aykiridir.

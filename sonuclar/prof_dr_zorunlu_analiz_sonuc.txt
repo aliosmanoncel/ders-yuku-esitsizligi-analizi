@@ -1,0 +1,15 @@
+Resmi Jeofizik Anabilim Dali'ndaki toplam Prof. Dr. sayisi: 10
+Zorunlu dersi olan (Toplam Z Ders > 0) Prof. Dr. sayisi: 8
+
+- Prof. Dr. Z. Mümtaz HİSARLI [Yer Fiziği Anabilim Dalı] -> 5 zorunlu ders, 7.5 kredi
+- Prof. Dr. Ali İsmet KANLI [Uygulamalı Jeofizik Anabilim Dalı] -> 2 zorunlu ders, 6.5 kredi
+- Prof. Dr. Ethem GÖRGÜN [Sismoloji Anabilim Dalı] -> 2 zorunlu ders, 4.5 kredi
+- Prof. Dr. Eşref YALÇINKAYA [Sismoloji Anabilim Dalı] -> 2 zorunlu ders, 5.5 kredi
+- Prof. Dr. Murat BAYRAK [Yer Fiziği Anabilim Dalı] -> 2 zorunlu ders, 5.5 kredi
+- Prof. Dr. Hakan ALP [Uygulamalı Jeofizik Anabilim Dalı] -> 1 zorunlu ders, 3 kredi
+- Prof. Dr. A. Muhittin ALBORA [Uygulamalı Jeofizik Anabilim Dalı] -> 1 zorunlu ders, 4 kredi
+- Prof. Dr. Mustafa Kemal TUNÇER [Yer Fiziği Anabilim Dalı] -> 1 zorunlu ders, 3 kredi
+
+Zorunlu dersi olmayan Prof. Dr. sayisi: 2
+- Prof. Dr. Ali Osman ÖNCEL [Sismoloji Anabilim Dalı]
+- Prof. Dr. Mualla CENGİZ [Yer Fiziği Anabilim Dalı]

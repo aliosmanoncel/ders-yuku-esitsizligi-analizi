@@ -1,0 +1,42 @@
+==============================================================================
+JEOFIZIK BOLUMU - DERS YUKU ESITLIK/DENGELILIK ANALIZI
+(2547 s. Kanun: Bolum Baskani dersleri esit ve dengeli dagitir)
+==============================================================================
+
+--- TUM BOLUM (22 kisi) (n=21) ---
+Zorunlu Ders  : min=0  max=5  ortalama=1.52  CV=0.8256153008514316
+Zorunlu AKTS  : min=0  max=28  ortalama=7.29  CV=0.901676567894407
+Genel Top.AKTS: min=4  max=50  ortalama=20.57  CV=0.6166364273533429
+Zorunlu dersi SIFIR olanlar: Prof. Dr. Ali Osman ÖNCEL, Prof. Dr. Mualla CENGİZ, Doç. Dr. Özlem MAKAROĞLU, Doç. Dr. Nurdan SAYIN, Dr. Öğr. Üyesi Anisya B. TEKKELİ
+
+--- UNVAN GRUBU: Prof. Dr. (n=10) ---
+Zorunlu Ders  : min=0  max=5  ortalama=1.60  CV=0.8477912478906585
+Zorunlu AKTS  : min=0  max=28  ortalama=8.10  CV=0.944182163209822
+Genel Top.AKTS: min=13  max=50  ortalama=22.30  CV=0.47965296094064724
+Zorunlu dersi SIFIR olanlar: Prof. Dr. Ali Osman ÖNCEL, Prof. Dr. Mualla CENGİZ
+
+--- UNVAN GRUBU: Doç. Dr. (n=4) ---
+Zorunlu Ders  : min=0  max=4  ortalama=1.50  CV=1.1055415967851332
+Zorunlu AKTS  : min=0  max=15  ortalama=7.00  CV=1.0050890913907349
+Genel Top.AKTS: min=10  max=39  ortalama=23.50  CV=0.5075259762500666
+Zorunlu dersi SIFIR olanlar: Doç. Dr. Özlem MAKAROĞLU, Doç. Dr. Nurdan SAYIN
+
+--- UNVAN GRUBU: Dr. Öğr. Üyesi (n=7) ---
+Zorunlu Ders  : min=0  max=2  ortalama=1.43  CV=0.5099019513592785
+Zorunlu AKTS  : min=0  max=11  ortalama=6.29  CV=0.6290160228680931
+Genel Top.AKTS: min=4  max=41  ortalama=16.43  CV=0.8855914474068881
+Zorunlu dersi SIFIR olanlar: Dr. Öğr. Üyesi Anisya B. TEKKELİ
+
+==============================================================================
+DETAY TABLO (Prof. Dr. grubu, zorunlu ders sayisina gore siralandi)
+==============================================================================
+Prof. Dr. Z. Mümtaz HİSARLI         [Yer Fiziği Anabilim Dalı    ] Z.Ders=5  Z.AKTS= 28.0  Genel.AKTS= 50.0  <-- BÖLÜM BAŞKANI
+Prof. Dr. Ali İsmet KANLI           [Uygulamalı Jeofizik Anabilim Dalı] Z.Ders=2  Z.AKTS=  9.0  Genel.AKTS= 30.0
+Prof. Dr. Ethem GÖRGÜN              [Sismoloji Anabilim Dalı     ] Z.Ders=2  Z.AKTS=  7.0  Genel.AKTS= 17.0
+Prof. Dr. Eşref YALÇINKAYA          [Sismoloji Anabilim Dalı     ] Z.Ders=2  Z.AKTS=  9.0  Genel.AKTS= 15.0
+Prof. Dr. Murat BAYRAK              [Yer Fiziği Anabilim Dalı    ] Z.Ders=2  Z.AKTS= 13.0  Genel.AKTS= 13.0
+Prof. Dr. Hakan ALP                 [Uygulamalı Jeofizik Anabilim Dalı] Z.Ders=1  Z.AKTS=  4.0  Genel.AKTS= 23.0
+Prof. Dr. A. Muhittin ALBORA        [Uygulamalı Jeofizik Anabilim Dalı] Z.Ders=1  Z.AKTS=  6.0  Genel.AKTS= 18.0
+Prof. Dr. Mustafa Kemal TUNÇER      [Yer Fiziği Anabilim Dalı    ] Z.Ders=1  Z.AKTS=  5.0  Genel.AKTS= 16.0
+Prof. Dr. Ali Osman ÖNCEL           [Sismoloji Anabilim Dalı     ] Z.Ders=0  Z.AKTS=  0.0  Genel.AKTS= 27.0
+Prof. Dr. Mualla CENGİZ             [Yer Fiziği Anabilim Dalı    ] Z.Ders=0  Z.AKTS=  0.0  Genel.AKTS= 14.0
