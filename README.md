@@ -2,8 +2,10 @@
 
 İstanbul Üniversitesi-Cerrahpaşa, Jeofizik Mühendisliği Bölümü'nün 2025-2026
 eğitim-öğretim yılı ders yükü dağılımının eşitlik/dengelilik açısından
-istatistiksel analizi. Bu depo, [Ders Yükü Dağılımındaki Eşitsizlikler](https://aliosmanoncel.blogspot.com)
-başlıklı yazının metodoloji ve kaynak kod kısmıdır.
+istatistiksel analizi. Bu depo, [Ders Yükü Dengesi: Resmî Veriler Işığında Bir İnceleme](https://aliosmanoncel.blogspot.com/p/teaching-load-balance.html)
+başlıklı yazının metodoloji ve kaynak kod kısmıdır ([kısa özet/teaser yazı](https://aliosmanoncel.blogspot.com/2026/07/teaching-load-balance.html) da mevcuttur).
+Bu yazı, Ocak 2025'te yayınlanan [Ders Yükü Dağılımındaki Eşitsizlikler](https://aliosmanoncel.blogspot.com/2025/01/education.html)
+başlıklı ilk incelemeye dayanılarak hazırlanmıştır (*modified after this paper*).
 
 ## Bu depoda ne var
 
@@ -59,4 +61,6 @@ Hibrit lisanslama kullanılmıştır:
 ---
 **Yazar:** Prof. Dr. Ali Osman Öncel — İstanbul Üniversitesi-Cerrahpaşa,
 Jeofizik Mühendisliği Bölümü
-**İlgili yazı:** https://aliosmanoncel.blogspot.com
+**İlgili yazı (tam analiz):** https://aliosmanoncel.blogspot.com/p/teaching-load-balance.html
+**İlgili yazı (özet):** https://aliosmanoncel.blogspot.com/2026/07/teaching-load-balance.html
+**Orijinal inceleme (Ocak 2025):** https://aliosmanoncel.blogspot.com/2025/01/education.html
