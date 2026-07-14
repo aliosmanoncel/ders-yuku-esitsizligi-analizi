@@ -20,11 +20,14 @@ başlıklı yazının metodoloji ve kaynak kod kısmıdır.
 
 ## Bu depoda BİLEREK bulunmayanlar
 
-- **Ham Excel veri dosyası** (`Jeofizik_Ders_Yuku_Dagilimi.xlsx`): Bu dosya
-  bir başka öğretim üyesi tarafından derlenip bölüm e-posta listesine
-  gönderilmiştir; bu deponun yazarının kendi ürettiği bir belge değildir.
-  Script'ler bu dosyayı girdi olarak bekler ama dosyanın kendisi burada
-  paylaşılmamıştır.
+- **Ham Excel veri dosyası** (`Jeofizik_Ders_Yuku_Dagilimi.xlsx`): Veri seti
+  orijinal olarak Doç. Dr. Savaş Karabulut tarafından derlenmiş ve bölüm
+  e-posta listesine gönderilmiştir (*modified after Karabulut* — bu
+  depodaki script'ler ve analiz, o veri seti üzerinde çalışacak şekilde
+  yazılmış, ancak veri seti kendisi değiştirilerek/analiz edilerek
+  kullanılmıştır). Orijinal dosya bu deponun yazarının kendi ürettiği bir
+  belge olmadığı için burada ayrıca paylaşılmamıştır; script'ler bu
+  dosyayı girdi olarak bekler ama dosyanın kendisi depoda yoktur.
 - **Kurum içi resmi yazışmalar** (Dekanlık yazıları, Bölüm Başkanlığı'nın
   üçüncü kişilere yazdığı resmi yanıtlar): Bunlar bu deponun yazarına
   değil başka taraflara adreslenmiş belgeler olduğu için dahil edilmemiştir.
