@@ -21,7 +21,7 @@ Under the following terms:
   provide a link to this repository, and indicate if changes were made.
 
 Note on the underlying data set (`data/Jeofizik_Ders_Yuku_Dagilimi.xlsx`):
-this file was originally compiled by a third party (see README.md,
-"modified after Karabulut") and derived from publicly available official
-course schedules. Attribution to the original compiler should be preserved
-in any redistribution.
+this file was shared publicly by a third party (see README.md for details)
+and is derived from publicly available official course schedules.
+Attribution to the original source should be preserved in any
+redistribution.

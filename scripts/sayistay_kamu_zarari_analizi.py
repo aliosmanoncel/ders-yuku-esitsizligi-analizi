@@ -115,6 +115,20 @@ for k in sorted(kayitlar, key=lambda x: -(x["guz"] + x["bahar"])):
 print("\n" + "=" * 90)
 print(f"ESIGIN ALTINDA KALAN DONEM SAYISI (tamamlanmamis ders yuku): {len(esik_alti)}")
 print(f"ESIGI ASAN DONEM SAYISI (potansiyel ek ders ücreti): {len(esik_ustu)}")
+
+# Kisi-bazli ozet (donem-kaydi degil, ogretim uyesi sayisi uzerinden)
+hicbir_donemde_asmayan = [k for k in kayitlar if k["guz"] <= ASGARI_HAFTALIK_SAAT and k["bahar"] <= ASGARI_HAFTALIK_SAAT]
+en_az_bir_donem_asan = [k for k in kayitlar if k["guz"] > ASGARI_HAFTALIK_SAAT or k["bahar"] > ASGARI_HAFTALIK_SAAT]
+her_iki_donem_asan = [k for k in kayitlar if k["guz"] > ASGARI_HAFTALIK_SAAT and k["bahar"] > ASGARI_HAFTALIK_SAAT]
+print(f"\nKISI BAZLI OZET (ders yuku verisi bulunan {len(kayitlar)} ogretim uyesi icin):")
+print(f"  Hicbir donemde esigi asmayan: {len(hicbir_donemde_asmayan)}")
+print(f"  En az bir donemde esigi asan: {len(en_az_bir_donem_asan)}")
+for k in en_az_bir_donem_asan:
+    print(f"    - {k['isim']}")
+print(f"  Her iki donemde de asan    : {len(her_iki_donem_asan)}")
+for k in her_iki_donem_asan:
+    print(f"    - {k['isim']}")
+
 print("\nSayistay'in tespit ettigi 'kamu zarari' senaryosu tam olarak budur: ayni")
 print("bolumde, ayni donemde, esigin ALTINDA kalanlar VARKEN, esigi ASANLARA")
 print("ek ders ücreti odenmesi. Esik alti olan ogretim uyelerine once mevcut")

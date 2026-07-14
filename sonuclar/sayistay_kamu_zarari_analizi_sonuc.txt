@@ -30,6 +30,17 @@ Dr. Öğr. Üyesi Anisya B. TEKKELİ    Dr. Öğr. Üyesi      0.0    2.5  GÜZ 
 ESIGIN ALTINDA KALAN DONEM SAYISI (tamamlanmamis ders yuku): 36
 ESIGI ASAN DONEM SAYISI (potansiyel ek ders ücreti): 6
 
+KISI BAZLI OZET (ders yuku verisi bulunan 21 ogretim uyesi icin):
+  Hicbir donemde esigi asmayan: 16
+  En az bir donemde esigi asan: 5
+    - Prof. Dr. Z. Mümtaz HİSARLI
+    - Prof. Dr. Ali İsmet KANLI
+    - Doç. Dr. Onur TAN
+    - Dr. Öğr. Üyesi Okan TEZEL
+    - Dr. Öğr. Üyesi Nihan HOŞKAN
+  Her iki donemde de asan    : 1
+    - Dr. Öğr. Üyesi Okan TEZEL
+
 Sayistay'in tespit ettigi 'kamu zarari' senaryosu tam olarak budur: ayni
 bolumde, ayni donemde, esigin ALTINDA kalanlar VARKEN, esigi ASANLARA
 ek ders ücreti odenmesi. Esik alti olan ogretim uyelerine once mevcut
