@@ -275,6 +275,10 @@
   <strong>⚠️ Metodolojik not:</strong> Bu bölümdeki "kredi" değerleri, resmi haftalık ders saatinin yaklaşık bir göstergesidir (milli kredi = teorik + uygulama/2 formülüyle hesaplanır ve ders saatinden farklılaşabilir). Kesin hukuki değerlendirme için resmi ders programı ve ek ders puantaj cetvelleri esas alınmalıdır.
 </div>
 
+<div class="ep-box ep-box-gold">
+  <strong>💻 Metodoloji ve kaynak kod:</strong> Yukarıdaki istatistikleri üreten Python script'leri, doğrulama yöntemi ve sonuçların tam dökümü açık kaynak olarak paylaşılmıştır: <a href="https://github.com/aliosmanoncel/ders-yuku-esitsizligi-analizi" target="_blank" rel="noopener">github.com/aliosmanoncel/ders-yuku-esitsizligi-analizi</a>. Analiz, bölümün kendi resmi web sitesinde yayınlanan imzalı ders programı belgeleriyle bağımsız olarak doğrulanmıştır (bkz. depodaki doğrulama özeti).
+</div>
+
 <div class="ep-divider"></div>
 
 <div class="ep-section" id="perspektif">🌍 3. Daha Geniş Bir Perspektif</div>
