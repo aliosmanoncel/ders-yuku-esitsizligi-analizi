@@ -19,6 +19,7 @@ başlıklı ilk incelemenin güncellenmiş ve genişletilmiş sürümüne dayanm
 |---|---|
 | `scripts/` | Python analiz script'leri (5 dosya, openpyxl tabanlı) |
 | `data/` | Analizde kullanılan veri seti (`Jeofizik_Ders_Yuku_Dagilimi.xlsx`) |
+| `documents/` | Analizde atıf yapılan ve paylaşılmasında hukuki sakınca bulunmayan resmî süreç belgeleri |
 | `sonuclar/` | Script'lerin 14.07.2026 tarihli çalıştırılmasından elde edilen statik çıktılar |
 | `Dogrulama-Metodolojisi-ve-Sonuc.txt` | Doğrulama süreci ve sonucu |
 | `requirements.txt` | Python bağımlılıkları |
@@ -54,11 +55,27 @@ kullanır; bu nedenle **`scripts/` dizini içinden** çalıştırılmalıdır,
 depo kök dizininden değil. Diğer script'ler de aynı şekilde çalışır ve
 konsola sonuç yazdırır (bkz. `sonuclar/` içindeki örnek çıktılar).
 
+## Süreç Belgeleri (`documents/`)
+
+Bu klasör, yazarın kendisine hitaben düzenlenmiş veya bizzat kendisi
+tarafından sunulmuş dört resmî yazışmayı, kronolojik sırayla içerir.
+Belgelerin içeriği bu depoda tartışılmamakta; yalnızca sürecin
+kronolojisi ve kamuya açık analizle ilişkisi belgelenmektedir.
+
+| Belge | Tarih |
+|---|---|
+| `01-Dekanliga-Dilekce-12-Eylul-2024.pdf` | 12.09.2024 — Yazarın Dekanlığa yazılı başvurusu |
+| `02-Dekanlik-Yaniti-18-Eylul-2024.pdf` | 18.09.2024 — Dekanlığın yanıtı (2547 s. Kanun m.18/6) |
+| `03-Rektorluge-Dilekce-20-Eylul-2024.pdf` | 20.09.2024 — Yazarın Rektörlüğe yazılı başvurusu |
+| `04-Rektorluk-Yaniti-30-Eylul-2024.pdf` | 30.09.2024 — Rektörlüğün yanıtı (2547 s. Kanun m.21/6) |
+
 ## Bu depoda yer almayan belgeler
 
 - **Kurum içi resmi yazışmalar** (Dekanlık yazıları, Bölüm Başkanlığı'nın
   üçüncü kişilere yazdığı resmi yanıtlar): Bunlar bu deponun yazarına
   hitaben düzenlenmemiş belgeler olduğu için dahil edilmemiştir.
+  (`documents/` klasöründeki belgeler bu kuralın istisnasıdır; çünkü
+  bizzat yazara hitaben düzenlenmiş veya yazar tarafından sunulmuştur.)
 
 ## Yöntem özeti
 
